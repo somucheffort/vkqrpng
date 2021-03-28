@@ -32,3 +32,15 @@ qr | generated a qr with settings:
 qr > save
 qr | saved qr to 'qr.png'
 ```
+
+* * *
+
+Also you can generate faster!
+
+```console
+qr > fast url_here
+qr | set url to 'url_here'
+qr | generated a qr with settings:
+ { text: 'url_here', options: {} }
+qr | saved qr to 'qr.png'
+```
