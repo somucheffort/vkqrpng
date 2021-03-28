@@ -1,0 +1,17 @@
+{
+  "name": "vkqrpng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "redcarti <leakiorme@gmail.com> (http://redcarti.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "@modularium/fox": "^0.1.4-beta.1",
+    "@vkontakte/vk-qr": "^2.0.10",
+    "svg2img": "^0.9.1"
+  }
+}
